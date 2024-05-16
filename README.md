@@ -7,7 +7,7 @@ Spatiotemporal beamforming demo with Jupyter notebook
 
 This Jupyter [notebook](https://github.com/kul-compneuro/dagvandewetenschap-2021-stbf-demo/blob/main/demo.ipynb)
 shows the spatiotemporal beamformer applied to an event-related potential classification problem.
-View the corresponding poster presentation [here](https://raw.githubusercontent.com/kul-compneuro/dagvandewetenschap-2021-stbf-demo/main/dagvandewetenschap_poster.pdf)
+View the corresponding poster presentation [here](https://raw.githubusercontent.com/kul-compneuro/dagvandewetenschap-2021-stbf-demo/main/dagvandewetenschap_poster.pdf).
 
 ## References
  
